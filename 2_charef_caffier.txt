@@ -1,2 +1,5 @@
 CHAREF Sohel
 CAFFIER Mathieu
+
+Explication Partie 1 exercice 7: 
+Il n'apparait pas dans le "master" puisque ce fichier est a été déposé seulement dans la brache "mon_fichier"
